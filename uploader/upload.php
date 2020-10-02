@@ -1,5 +1,6 @@
 <?php
 include('config.php');
+
 // CODE //
 $key = $_GET["Key"];
 if ( $key == $privacykey ){
